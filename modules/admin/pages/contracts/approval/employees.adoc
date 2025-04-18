@@ -2,7 +2,18 @@
 
 Приложение добавляет в _Справочник сотрудников_ группы: _Согласование договоров_ и _Печать договоров_.
 
-.Чтобы добавить сотрудника в группу:
-include::6.1@backoffice:desdirs:staff/groups/edit.adoc[tags=add-to-group]
+[#web]
+== Добавление сотрудников в группу из {wc}а
 
-Подробная инструкция по работе с сотрудниками в группах приведена в документации модуля {bo}: xref:6.1@backoffice:desdirs:staff/groups/edit.adoc#add-to-group[Редактирование группы].
+.Чтобы добавить сотрудника в группу из {wc}а:
+include::5.5.17@webclient:user/desdirs:staff/groups-employees.adoc[tags=adding]
+
+Подробнее см. в документации модуля {wc}: "xref:5.5.17@webclient:user/desdirs:staff/groups-employees.adoc[]".
+
+[#windows]
+== Добавление сотрудников в группу из {wincl}а
+
+.Чтобы добавить сотрудника в группу из {wincl}а:
+include::5.5.5@backoffice:desdirs:staff/groups/edit.adoc[tags=add-to-group]
+
+Подробнее см. в документации модуля {bo}: xref:5.5.5@backoffice:desdirs:staff/groups/edit.adoc#add-to-group[Редактирование группы].

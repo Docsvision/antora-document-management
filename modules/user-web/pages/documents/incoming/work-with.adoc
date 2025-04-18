@@ -1,0 +1,22 @@
+= Входящая корреспонденция
+
+Для входящей корреспонденции используются карточки вида "xref:5.5.17@webclient:user:docs-fields-incoming.adoc[Входящий]".
+
+Основной сценарий работы с входящей корреспонденцией включает выполнение следующих операций:
+
+. xref:documents/incoming/create.adoc[Ввод документа в систему].
+. Регистрация документа кнопкой *Зарегистрировать*.
+. xref:documents/incoming/operations.adoc[Обработка входящей корреспонденции].
+. xref:5.5.17@webclient:user:task-groups-fulfillment.adoc[Исполнение заданий по документу].
+. xref:documents/incoming/archive.adoc[Перевод документа в архив].
+
+.Основной сценарий работы с входящей корреспонденцией
+image::5.5.17@webclient:user:diag-06e205b190991e82dd8d164edee6d09c575c6e3a.svg[]
+
+.Также могут быть выполнены произвольные сценарии:
+* xref:5.5.17@webclient:user:appendix/email-button.adoc[Отправка получателям ссылки на документ по электронной почте].
+* xref:5.5.17@webclient:user:docs-to-acknowledgement.adoc[Отправка документа на ознакомление].
+* xref:5.5.17@webclient:user:tasks-new.adoc[Создание произвольного задания по документу].
+* xref:5.5.17@webclient:user:task-groups-new.adoc[Создание группы заданий по документу].
+* Добавление связанных xref:5.5.17@webclient:user:tasks-related-tasks.adoc[задач] или xref:5.5.17@webclient:user:tasks-related-docs.adoc[документов].
+* xref:5.5.17@webclient:user:docs-reply-incoming.adoc[Создание исходящего документа в ответ на входящий].

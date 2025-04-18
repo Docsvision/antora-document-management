@@ -1,6 +1,6 @@
 name: documentmgmt
-version: '6.1'
-prerelease: false
+version: 'GBL-3828_6.1'
+prerelease: true
 title: Управление документами
 asciidoc:
   attributes:
@@ -14,7 +14,6 @@ asciidoc:
 nav:
 - modules/ROOT/nav.adoc
 - modules/common/common.adoc
-- modules/user/user.adoc
 - modules/admin/admin.adoc
-
-#  start_page: ROOT:index.adoc
+- modules/user/user-win.adoc
+- modules/user-web/user-web.adoc
