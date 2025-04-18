@@ -1,5 +1,5 @@
 name: documentmgmt
-version: "5.5.4"
+version: "GBL-3828"
 title: Управление документами
 asciidoc:
   attributes:
