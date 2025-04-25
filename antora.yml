@@ -1,5 +1,6 @@
 name: documentmgmt
 version: "GBL-3828"
+prerelease: true
 title: Управление документами
 asciidoc:
   attributes:
