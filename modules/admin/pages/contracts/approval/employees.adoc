@@ -8,7 +8,7 @@
 .Чтобы добавить сотрудника в группу из {wc}а:
 include::5.5.17@webclient:user:directories/staff/groups-employees.adoc[tags=adding]
 
-Подробнее см. в документации модуля {wc}: "xref:5.5.17@webclient:user/directories:staff/groups-employees.adoc[]".
+Подробнее см. в документации модуля {wc}: "xref:5.5.17@webclient:user/directories/staff/groups-employees.adoc[]".
 
 [#windows]
 == Добавление сотрудников в группу из {wincl}а
