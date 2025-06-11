@@ -1,4 +1,4 @@
-* Руководство пользователя модуля
+* Руководство пользователя при работе в {wincl}е
 ** xref:preparation.adoc[]
 ** xref:cards/description.adoc[]
 *** xref:cards/doc/card.adoc[]

@@ -15,5 +15,5 @@ nav:
 - modules/ROOT/nav.adoc
 - modules/common/common.adoc
 - modules/admin/admin.adoc
-- modules/user/user.adoc
+- modules/user/user-win.adoc
 - modules/user/user-web.adoc
