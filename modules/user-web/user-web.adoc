@@ -10,6 +10,12 @@
 ***** xref:5.5.17@webclient:user:docs-fields-application.adoc[]
 ***** xref:5.5.17@webclient:user:docs-fields-working.adoc[]
 
+*** xref:documents/incoming/work-with.adoc[]
+**** xref:documents/incoming/create.adoc[]
+**** xref:documents/incoming/operations.adoc[]
+**** xref:documents/incoming/archive.adoc[]
+**** xref:documents/incoming/log.adoc[]
+
 *** xref:5.5.17@webclient:user:contracts.adoc[]
 **** xref:5.5.17@webclient:user:contracts-work.adoc[]
 ***** xref:5.5.17@webclient:user:contracts-prepare-register.adoc[]
@@ -99,7 +105,6 @@
 **** xref:5.5.17@webclient:user:docs-print-card.adoc[]
 
 
-
 *** xref:5.5.17@webclient:user:docs-approval.adoc[]
 **** xref:5.5.17@webclient:user:approval-advanced.adoc[]
 **** xref:5.5.17@webclient:user:approval-send-modify.adoc[]
@@ -113,3 +118,13 @@
 **** xref:5.5.17@webclient:user:approval-discussion.adoc[]
 **** xref:5.5.17@webclient:user:approval-additional-approvers.adoc[]
 **** xref:5.5.17@webclient:user:approval-subtasks.adoc[]
+
+
+**** xref:5.5.17@webclient:user:appendix/docs.adoc[]
+***** xref:5.5.17@webclient:user:appendix/numerator.adoc[]
+***** xref:5.5.17@webclient:user:appendix/files.adoc[]
+***** xref:5.5.17@webclient:user:appendix/print-button.adoc[]
+***** xref:5.5.17@webclient:user:appendix/email-button.adoc[]
+**** xref:5.5.17@webclient:user:appendix/tasks.adoc[]
+***** xref:5.5.17@webclient:user:appendix/task-card-file-panel.adoc[]
+***** xref:5.5.17@webclient:user:appendix/approval-file-panel.adoc[]
