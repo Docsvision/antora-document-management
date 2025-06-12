@@ -7,7 +7,7 @@
 . xref:documents/incoming/create.adoc[Ввод документа в систему].
 . Регистрация документа кнопкой *Зарегистрировать*.
 . xref:documents/incoming/operations.adoc[Обработка входящей корреспонденции].
-. xref:scenarios/receive-perform-tasks.adoc[Исполнение заданий по документу].
+. xref:5.5.17@webclient:user:task-groups-fulfillment.adoc[Исполнение заданий по документу].
 . xref:documents/incoming/archive.adoc[Перевод документа в архив].
 
 .Основной сценарий работы с входящей корреспонденцией
