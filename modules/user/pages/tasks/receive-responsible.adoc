@@ -18,4 +18,3 @@ image::open-responsible.png[Карточка задания исполнител
 +
 * xref:tasks/finish-group.adoc#by-responsible[Завершите задание исполнителя].
 * xref:tasks/manage-launched-group.adoc#recall-task[Отзовите запущенное задание исполнителя].
-* xref:tasks/manage-launched-group.adoc#change-deadline[Измените сроки выполнения задания].

@@ -32,6 +32,7 @@
 **** xref:documents/note/create.adoc[]
 **** xref:documents/note/register.adoc[]
 **** xref:documents/note/operations.adoc[]
+**** xref:documents/note/archive.adoc[]
 
 *** xref:documents/application/work-with.adoc[]
 **** xref:5.5.17@webclient:user:docs-fields-application.adoc[]
