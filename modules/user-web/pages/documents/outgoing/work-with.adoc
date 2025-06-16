@@ -1,6 +1,6 @@
 = Исходящая корреспонденция
 
-Для исходящей корреспонденции используются карточки вида xref:5.5.17@webclient:user:docs-fields-outgoing.adoc[Исходящий].
+Для исходящей корреспонденции используются карточки вида xref:6.1@webclient:user:docs-fields-outgoing.adoc[Исходящий].
 
 .Основной сценарий работы с исходящей корреспонденцией включает выполнение следующих операций:
 . xref:documents/outgoing/create.adoc[Создание проекта документа].
@@ -19,13 +19,13 @@
 . xref:documents/outgoing/archive.adoc[Перевод документа в архив].
 
 .Основной сценарий работы с исходящей корреспонденцией
-image::5.5.17@webclient:user:diag-9542f46418cf255b595f1bf00ea70f6143aab2cc.svg[Основной сценарий работы с исходящей корреспонденцией]
+image::6.1@webclient:user:diag-9542f46418cf256.1f1bf00ea70f6143aab2cc.svg[Основной сценарий работы с исходящей корреспонденцией]
 
 .Также могут быть выполнены дополнительные сценарии:
-* xref:5.5.17@webclient:user:appendix/email-button.adoc[Отправка получателям ссылки на документ по электронной почте].
-* xref:5.5.17@webclient:user:docs-to-acknowledgement.adoc[Отправка документа на ознакомление].
-* xref:5.5.17@webclient:user:tasks-new.adoc[Создание произвольного задания по документу].
-* xref:5.5.17@webclient:user:task-groups-new.adoc[Создание группы заданий по документу].
-* Добавление связанных xref:5.5.17@webclient:user:tasks-related-tasks.adoc[задач] или xref:5.5.17@webclient:user:tasks-related-docs.adoc[документов].
-* xref:5.5.17@webclient:user:task-receive-performer.adoc[Получение документа и исполнение заданий по документу].
-* xref:5.5.17@webclient:user:search.adoc[Поиска исходящих документов].
+* xref:6.1@webclient:user:appendix/email-button.adoc[Отправка получателям ссылки на документ по электронной почте].
+* xref:6.1@webclient:user:docs-to-acknowledgement.adoc[Отправка документа на ознакомление].
+* xref:6.1@webclient:user:tasks-new.adoc[Создание произвольного задания по документу].
+* xref:6.1@webclient:user:task-groups-new.adoc[Создание группы заданий по документу].
+* Добавление связанных xref:6.1@webclient:user:tasks-related-tasks.adoc[задач] или xref:6.1@webclient:user:tasks-related-docs.adoc[документов].
+* xref:6.1@webclient:user:task-receive-performer.adoc[Получение документа и исполнение заданий по документу].
+* xref:6.1@webclient:user:search.adoc[Поиска исходящих документов].

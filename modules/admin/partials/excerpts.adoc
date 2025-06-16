@@ -10,7 +10,7 @@
 
 //tag::wincl[]
 .См. подробнее:
-* В документации {wc}а, раздел "xref:5.5.17@webclient:user:security.adoc[]"
+* В документации {wc}а, раздел "xref:6.1@webclient:user:security.adoc[]"
 * В документации {wincl}а, раздел "xref:5.5.4@winclient:user:security.adoc[]".
 //end::wincl[]
 
