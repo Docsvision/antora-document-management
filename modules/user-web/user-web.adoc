@@ -1,6 +1,6 @@
 * Руководство пользователя при работе в {wc}е
-** xref:user:preparation.adoc[]
-** xref:user:cards/description.adoc[]
+** xref:preparation.adoc[]
+** xref:cards/description.adoc[]
 *** xref:6.1@webclient:user:docs.adoc[]
 
 *** xref:documents/incoming/work-with.adoc[]

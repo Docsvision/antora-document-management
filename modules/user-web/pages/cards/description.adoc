@@ -1,0 +1,31 @@
+= Назначение видов карточек приложения
+
+В приложении _{dm}_ используются специальные виды карточек, созданные на основе базовых для системы _{dv} 5_ видов карточек _Документ_, _Задание_, _Группа заданий_, _Согласование_.
+
+Для различия с базовыми видами, названия видов карточек приложения дополняются постфиксом "УД":
+
+* xref:6.1@webclient:user:docs.adoc["Документ УД"].
+* xref:6.1@webclient:user:tasks.adoc["Задание УД"].
+* xref:6.1@webclient:user:task-groups.adoc["Группа заданий УД"].
+
+На основе данных видов для приложения созданы дочерние виды карточек, позволяющие упростить работу пользователя с документами и заданиями. По умолчанию в приложении используются следующие дочерние виды:
+
+* _Документ УД_:
+** xref:6.1@webclient:user:docs-fields-incoming.adoc["Входящий"];
+** xref:6.1@webclient:user:docs-fields-outgoing.adoc["Исходящий"];
+** xref:6.1@webclient:user:docs-fields-note.adoc["Служебная записка"];
+** xref:6.1@webclient:user:docs-fields-application.adoc["Заявка"];
+** xref:6.1@webclient:user:docs-fields-note.adoc["ОРД"];
+** xref:6.1@webclient:user:docs-fields-working.adoc["Рабочий"];
+* _Задание УД_:
+** xref:6.1@webclient:user:docs-acknowledge-with.adoc["На ознакомление"];
+** xref:6.1@webclient:user:task-receive-performer.adoc["На исполнение"].
+
+Для ввода в систему произвольных документов предназначена карточка xref:6.1@webclient:user:appendix/files.adoc["Файл"].
+
+.Для работы с договорами предназначены карточки:
+* xref:6.1@webclient:user:contracts.adoc[карточка "Договор"];
+* xref:6.1@webclient:user:contracts-add-agreement.adoc[Карточка "Дополнительное соглашение"];
+* xref:6.1@webclient:user:acts.adoc[Карточка "Акт"];
+* xref:6.1@webclient:user:contracts-consolidate.adoc[Карточка "Консолидация договора"];
+* xref:6.1@webclient:user:contracts-partner-approval.adoc[Карточка "Согласование с контрагентом"].
