@@ -48,7 +48,7 @@
 **** xref:documents/working/register.adoc[]
 **** xref:documents/working/operations.adoc[]
 
-**** xref:5.5.17@webclient:user:docs-new.adoc[]
+*** xref:5.5.17@webclient:user:docs-new.adoc[]
 **** xref:5.5.17@webclient:user:appendix/files.adoc[Работа с файлами документов]
 **** xref:5.5.17@webclient:user:docs-sync-fields.adoc[]
 **** xref:scenarios/manage-categories.adoc[]
