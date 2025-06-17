@@ -50,7 +50,6 @@
 
 **** xref:6.1@webclient:user:docs-new.adoc[]
 **** xref:6.1@webclient:user:appendix/files.adoc[Работа с файлами документов]
-**** xref:6.1@webclient:user:docs-sync-fields.adoc[]
 **** xref:scenarios/manage-categories.adoc[]
 **** xref:6.1@webclient:user:tasks-related.adoc[]
 ***** xref:6.1@webclient:user:tasks-related-tasks.adoc[]
