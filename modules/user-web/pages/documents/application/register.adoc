@@ -19,4 +19,4 @@ include::partial$excerpts.adoc[tags=need-work]
 * Просмотр журнала подписей.
 
 .Вид заявки после регистрации
-image::application-registered.png[Вид заявки после регистрации]
+image::5.5.17@webclient:user:application-registered.png[Вид заявки после регистрации]

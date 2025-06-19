@@ -4,24 +4,24 @@
 
 Для различия с базовыми видами, названия видов карточек приложения дополняются постфиксом "УД":
 
-* xref:5.5.17@webclient:user:docs.adoc["Документ УД"].
-* xref:5.5.17@webclient:user:tasks.adoc["Задание УД"].
-* xref:5.5.17@webclient:user:task-groups.adoc["Группа заданий УД"].
+* xref:docs.adoc["Документ УД"].
+* xref:tasks.adoc["Задание УД"].
+* xref:task-groups.adoc["Группа заданий УД"].
 
 На основе данных видов для приложения созданы дочерние виды карточек, позволяющие упростить работу пользователя с документами и заданиями. По умолчанию в приложении используются следующие дочерние виды:
 
 * _Документ УД_:
-** xref:5.5.17@webclient:user:docs-fields-incoming.adoc["Входящий"];
-** xref:5.5.17@webclient:user:docs-fields-outgoing.adoc["Исходящий"];
-** xref:5.5.17@webclient:user:docs-fields-note.adoc["Служебная записка"];
-** xref:5.5.17@webclient:user:docs-fields-application.adoc["Заявка"];
-** xref:5.5.17@webclient:user:docs-fields-note.adoc["ОРД"];
-** xref:5.5.17@webclient:user:docs-fields-working.adoc["Рабочий"];
+** xref:docs-fields-incoming.adoc["Входящий"];
+** xref:docs-fields-outgoing.adoc["Исходящий"];
+** xref:docs-fields-note.adoc["Служебная записка"];
+** xref:docs-fields-application.adoc["Заявка"];
+** xref:docs-fields-note.adoc["ОРД"];
+** xref:docs-fields-working.adoc["Рабочий"];
 * _Задание УД_:
-** xref:5.5.17@webclient:user:docs-acknowledge-with.adoc["На ознакомление"];
-** xref:5.5.17@webclient:user:task-receive-performer.adoc["На исполнение"].
+** xref:docs-acknowledge-with.adoc["На ознакомление"];
+** xref:task-receive-performer.adoc["На исполнение"].
 
-Для ввода в систему произвольных документов предназначена карточка xref:5.5.17@webclient:user:appendix/files.adoc["Файл"].
+Для ввода в систему произвольных документов предназначена карточка xref:files.adoc["Файл"].
 
 .Для работы с договорами предназначены карточки:
 * xref:5.5.17@webclient:user:contracts.adoc[карточка "Договор"];

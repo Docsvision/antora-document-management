@@ -66,7 +66,7 @@ NOTE: В представление вывод примечания по умо�
 +
 Если запись добавлена ошибочно, удалите её кнопкой image:5.5.17@webclient:user:buttons/x-red-circle.png[Крестик].
 +
-. Создайте xref:5.5.17@webclient:user:docs-approval.adoc[согласование] исходящего документа.
+. Создайте xref:docs-approval.adoc[согласование] исходящего документа.
 //end::finish[]
 
 //tag::approvers[]

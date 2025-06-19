@@ -1,0 +1,20 @@
+= Перечень полей рабочего документа
+
+xref:5.5.17@webclient:user:appendix/simple-fields.adoc[Тема]::
+Название документа.
++
+include::5.5.17@webclient:user:partial$excerpts.adoc[tags=mandatory]
+
+xref:5.5.17@webclient:user:appendix/staff-directory-items.adoc[Подготовил]::
+Сотрудник, который подготовил проект документа. По умолчанию выбирается текущий сотрудник.
++
+include::5.5.17@webclient:user:partial$excerpts.adoc[tags=mandatory]
+
+include::5.5.17@webclient:user:partial$excerpts.adoc[tags=documentDate]
+
+xref:5.5.17@webclient:user:appendix/text.adoc[Описание]::
+Дополнительная информация по документу.
+
+xref:5.5.17@webclient:user:appendix/files.adoc[Файлы]::
+Файлы документа.
+include::5.5.17@webclient:user:partial$excerpts.adoc[tags=scanOrFileSystem]
