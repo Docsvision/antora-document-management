@@ -7,7 +7,7 @@ include::5.5.17@webclient:user:partial$excerpts.adoc[tags=incomingFolder]
 +
 * xref:5.5.17@webclient:user:approval-files.adoc[Ознакомьтесь с составом согласуемых файлов].
 * Ознакомьтесь с договором: нажмите на ссылку в разделе *Ссылка на карточку* для перехода к договору.
-* Если требуется, xref:5.5.17@webclient:user:approval-files.adocdoc#add-version[добавьте собственную версию договора].
+* Если требуется, xref:5.5.17@webclient:user:approval-files.adoc#add-version[добавьте собственную версию договора].
 +
 . Чтобы принять решение по согласованию, нажмите кнопку:
 +

@@ -49,7 +49,7 @@
 **** xref:documents/working/operations.adoc[]
 
 *** xref:docs-new.adoc[]
-**** xref:files.adoc[Работа с файлами документов]
+**** xref:appendix/files.adoc[Работа с файлами документов]
 **** xref:docs-sync-fields.adoc[]
 **** xref:manage-categories.adoc[]
 **** xref:docs-sign.adoc[]
@@ -153,8 +153,8 @@
 ***** xref:contracts-reports-no-sign.adoc[]
 ***** xref:contracts-reports-deadline.adoc[]
 
-**** xref:numerator.adoc[]
-**** xref:print-button.adoc[]
-**** xref:email-button.adoc[]
-**** xref:task-card-file-panel.adoc[]
-**** xref:links.adoc[]
+**** xref:appendix/numerator.adoc[]
+**** xref:appendix/print-button.adoc[]
+**** xref:appendix/email-button.adoc[]
+**** xref:appendix/task-card-file-panel.adoc[]
+**** xref:appendix/links.adoc[]

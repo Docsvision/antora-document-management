@@ -2,7 +2,7 @@
 
 == Отправить группу заданий на исполнение
 
-. Откройте группу заданий в xref:5.5.17@webclient:user:cards-terms.adocdoc#cards-state[состоянии] `Подготовка`.
+. Откройте группу заданий в xref:5.5.17@webclient:user:cards-terms.adoc#cards-state[состоянии] `Подготовка`.
 . На xref:5.5.17@webclient:user:cards-terms.adoc#cards-operations[панели операций] нажмите кнопку *Отправить на исполнение*. Состояние карточки будет `На исполнении`.
 +
 ****

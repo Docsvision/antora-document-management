@@ -1,7 +1,7 @@
 = Отправка задания на исполнение
 
 .Чтобы отправить сохранённое задание:
-. Откройте задание в xref:5.5.17@webclient:user:cards-terms.adocdoc#cards-state[состоянии] "Подготовка".
+. Откройте задание в xref:5.5.17@webclient:user:cards-terms.adoc#cards-state[состоянии] "Подготовка".
 . На xref:5.5.17@webclient:user:cards-terms.adoc#cards-operations[панели операций] нажмите кнопку *Отправить*.
 +
 ****

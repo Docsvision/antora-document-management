@@ -1,0 +1,1 @@
+include::webclient:user:appendix/task-card-file-panel.adoc[]

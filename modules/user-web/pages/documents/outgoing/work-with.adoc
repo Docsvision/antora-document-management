@@ -22,10 +22,10 @@
 image::5.5.17@webclient:user:diag-9542f46418cf255b595f1bf00ea70f6143aab2cc.svg[Основной сценарий работы с исходящей корреспонденцией]
 
 .Также могут быть выполнены дополнительные сценарии:
-* xref:email-button.adoc[Отправка получателям ссылки на документ по электронной почте].
+* xref:appendix/email-button.adoc[Отправка получателям ссылки на документ по электронной почте].
 * xref:docs-to-acknowledgement.adoc[Отправка документа на ознакомление].
 * xref:docs-new-task.adoc[Создание произвольного задания по документу].
 * xref:task-groups-new.adoc[Создание группы заданий по документу].
-* Добавление связанных xref:tasks-related-tasks.adoc[задач] или xref:links.adoc#old[документов].
+* Добавление связанных xref:tasks-related-tasks.adoc[задач] или xref:appendix/links.adoc#old[документов].
 * xref:task-receive-performer.adoc[Получение документа и исполнение заданий по документу].
 * xref:5.5.17@webclient:user:search.adoc[Поиска исходящих документов].

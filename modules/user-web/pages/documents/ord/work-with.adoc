@@ -22,10 +22,10 @@
 image::5.5.17@webclient:user:diag-cb26883ad0547e6d1bd232e06338b5469f15c3a0.svg[Основной сценарий работы с документом ОРД]
 
 .Также могут быть выполнены дополнительные сценарии:
-* xref:email-button.adoc[Отправка получателям ссылки на документ по электронной почте].
+* xref:appendix/email-button.adoc[Отправка получателям ссылки на документ по электронной почте].
 * xref:docs-to-acknowledgement.adoc[Отправка документа на ознакомление].
 * xref:docs-new-task.adoc[Создание произвольного задания по документу].
 * xref:task-groups-new.adoc[Создание группы заданий по документу].
-* Добавление связанных xref:links.adoc#old[документов].
+* Добавление связанных xref:appendix/links.adoc#old[документов].
 * xref:tasks-user-performer.adoc[Получение документа и исполнение заданий по документу].
 * xref:documents/ord/log.adoc[Просмотр журнала документов ОРД].
