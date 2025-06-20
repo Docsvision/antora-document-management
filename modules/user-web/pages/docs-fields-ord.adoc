@@ -1,0 +1,27 @@
+= Перечень полей документа ОРД
+
+xref:webclient:user:appendix/simple-fields.adoc[Тема]::
+Название документа.
++
+include::partial$excerpts.adoc[tags=mandatory]
+
+xref:webclient:user:appendix/date-time.adoc[Дата регистрации]::
+Дата регистрации документа в организации. По умолчанию устанавливаются текущие дата и время.
+
+xref:webclient:user:appendix/staff-directory-items.adoc[Подготовил]::
+Сотрудник, который подготовил проект документа. По умолчанию выбирается текущий сотрудник.
++
+include::partial$excerpts.adoc[tags=mandatory]
+
+xref:webclient:user:appendix/staff-department.adoc[Подразделение]::
+Организация или подразделение организации, для которого предназначен документ.
+
+xref:webclient:user:appendix/directory-designer-row.adoc[Вид ОРД]::
+Подвид организационно-распорядительного документа. По умолчанию выбирает _Приказ_ (первый элемент из списка видов ОРД).
+
+xref:webclient:user:appendix/text.adoc[Описание]::
+Дополнительная информация по документу.
+
+xref:webclient:user:appendix/files.adoc[Файлы]::
+Файлы документа.
+include::partial$excerpts.adoc[tags=scanOrFileSystem]

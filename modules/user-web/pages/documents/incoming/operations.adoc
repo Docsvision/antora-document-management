@@ -3,12 +3,12 @@
 Обработка входящей корреспонденции является произвольным сценарием в приложении _{dm}_.
 
 .Получатель корреспонденции может выполнить следующие действия:
-* xref:6.1@webclient:user:appendix/email-button.adoc[Отправить получателям ссылку на документ по электронной почте].
-* xref:6.1@webclient:user:docs-to-acknowledgement.adoc[Отправить документ на ознакомление].
-* xref:6.1@webclient:user:tasks-new.adoc[Создать произвольное задание по документу].
-* xref:6.1@webclient:user:task-groups-new.adoc[Создать группу заданий по документу].
-* Добавление связанных xref:6.1@webclient:user:tasks-related-tasks.adoc[задач] или xref:6.1@webclient:user:tasks-related-docs.adoc[документов].
-* xref:6.1@webclient:user:docs-reply-incoming.adoc[Создать исходящий документ в ответ на входящий].
+* xref:appendix/email-button.adoc[Отправить получателям ссылку на документ по электронной почте].
+* xref:docs-to-acknowledgement.adoc[Отправить документ на ознакомление].
+* xref:tasks-new.adoc[Создать произвольное задание по документу].
+* xref:task-groups-new.adoc[Создать группу заданий по документу].
+* Добавление связанных xref:appendix/links.adoc#old[документов].
+* xref:docs-reply-incoming.adoc[Создать исходящий документ в ответ на входящий].
 
 [#cancel]
 == Отмена операций с документом
@@ -21,7 +21,7 @@
 Операция может выполняться с документом, находящимся в состоянии `Зарегистрирован`, `В работе`, `В Архиве`.
 
 [#response]
-include::6.1@webclient:user:docs-reply-incoming.adoc[leveloffset=+1]
+См. xref:docs-reply-incoming.adoc[].
 
 .Команда для создания ответного исходящего документа
 image::incoming-response.png[Команда для создания ответного исходящего документа]

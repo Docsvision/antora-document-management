@@ -1,0 +1,37 @@
+= Перечень полей исходящего документа
+
+xref:webclient:user:appendix/simple-fields.adoc[Тема]::
+Название документа.
++
+include::partial$excerpts.adoc[tags=mandatory]
+
+xref:webclient:user:appendix/staff-directory-items.adoc[Подготовил]::
+Сотрудник, подготовивший проект документа. По умолчанию выбирается текущий сотрудник.
++
+include::partial$excerpts.adoc[tags=mandatory]
+
+xref:webclient:user:appendix/date-time.adoc[Дата регистрации]::
+Дата регистрации документа в организации. По умолчанию устанавливаются текущие дата и время.
+
+xref:webclient:user:appendix/staff-directory-items.adoc[Согласуют]::
+Сотрудники, участвующие в согласовании документа.
++
+Могут быть выбраны только сотрудники.
+
+xref:webclient:user:appendix/staff-directory-items.adoc[Подписывает]::
+Сотрудники, участвующие в подписании документа при согласовании.
++
+Могут быть выбраны только сотрудники.
+
+xref:webclient:user:appendix/text.adoc[Примечание]::
+Дополнительная информация по документу.
+
+xref:webclient:user:appendix/files.adoc[Файлы]::
+Файлы документа.
+include::partial$excerpts.adoc[tags=scanOrFileSystem]
+
+xref:webclient:user:appendix/partner-company.adoc[Организация]::
+Контрагенты из _Справочника контрагентов_, которым должен быть отправлен документ после подготовки, согласования и регистрации.
+
+xref:webclient:user:appendix/partner.adoc[Сотрудник]::
+Сотрудник контрагента.
