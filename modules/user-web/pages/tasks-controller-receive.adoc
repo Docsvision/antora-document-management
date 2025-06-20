@@ -4,7 +4,7 @@
 . Откройте полученную карточку _Задания_.
 +
 .Карточка задания у контролёра
-image::controller-acceptance.png[Карточка задания у контролёра]
+image::6.1_GBL-3828@webclient:user:controller-acceptance.png[Карточка задания у контролёра]
 +
 . xref:tasks-controller-accept.adoc[Проведите приёмку задания], если оно в состоянии `На приёмке`.
 +

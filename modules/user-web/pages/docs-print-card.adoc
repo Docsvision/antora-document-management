@@ -1,6 +1,6 @@
 = Отправить карточку на печать
 
-Если в карточку добавлен xref:webclient:user:appendix/print-button.adoc[элемент управления "Кнопка печати"], карточку можно отправить на печать.
+Если в карточку добавлен xref:6.1_GBL-3828@webclient:user:appendix/print-button.adoc[элемент управления "Кнопка печати"], карточку можно отправить на печать.
 
 .Чтобы отправить карточку на печать:
 . Нажмите кнопку *Печать*.
@@ -13,4 +13,4 @@ NOTE: Если вы работаете в {wc}е через браузер Googl
 . Отправьте карточку на печать.
 
 [#xslt]
-include::partial$excerpts.adoc[tags=xslt]
+include::6.1_GBL-3828@webclient:user:partial$excerpts.adoc[tags=xslt]

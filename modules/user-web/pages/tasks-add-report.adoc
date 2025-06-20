@@ -12,7 +12,7 @@
 . Перейдите к разделу _Отчёт_.
 +
 .Раздел "отчёт" в карточке Задания
-image::task-reports.png[Раздел "отчёт" в карточке Задания]
+image::6.1_GBL-3828@webclient:user:task-reports.png[Раздел "отчёт" в карточке Задания]
 +
 . Приложите отчёт:
 - Файл отчёта.
@@ -22,17 +22,17 @@ image::task-reports.png[Раздел "отчёт" в карточке Задан
 .Добавление отчёта в зависимости от его вида:
 ****
 .Добавить отчёт в виде файла:
-. Нажмите image:buttons/plus.png[Плюс] > image:buttons/attach.png[Скрепка].
+. Нажмите image:6.1_GBL-3828@webclient:user:buttons/plus.png[Плюс] > image:6.1_GBL-3828@webclient:user:buttons/attach.png[Скрепка].
 . Выберите добавляемый файл.
 +
-include::partial$excerpts.adoc[tags=letters]
+include::6.1_GBL-3828@webclient:user:partial$excerpts.adoc[tags=letters]
 
 .Отчёт в виде новой карточки:
-. Нажмите *image:buttons/plus.png[Плюс]* > *image:buttons/frame-plus.png[Прямоугольник с плюсом в круге]*.
+. Нажмите *image:6.1_GBL-3828@webclient:user:buttons/plus.png[Плюс]* > *image:6.1_GBL-3828@webclient:user:buttons/frame-plus.png[Прямоугольник с плюсом в круге]*.
 . Выберите вид документа, заполните поля новой карточки и сохраните изменения. Ссылка на связанную карточку документа появится в разделе _Отчёт_.
 
 .Отчёт в виде существующей карточки:
-. Нажмите *image:buttons/plus.png[Плюс]* > *image:buttons/greay-frame.png[Прямоугольник со стрелкой]*.
+. Нажмите *image:6.1_GBL-3828@webclient:user:buttons/plus.png[Плюс]* > *image:6.1_GBL-3828@webclient:user:buttons/greay-frame.png[Прямоугольник со стрелкой]*.
 . Выберите существующую карточку документа.
 
 .Текстовый отчёт:
@@ -42,5 +42,5 @@ include::partial$excerpts.adoc[tags=letters]
 . Нажмите кнопку *Сохранить*, чтобы добавить текст в отчёт.
 +
 .Пример заполнения отчёта
-image::task-with-report.png[Пример заполнения отчёта]
+image::6.1_GBL-3828@webclient:user:task-with-report.png[Пример заполнения отчёта]
 ****

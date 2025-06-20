@@ -1,13 +1,13 @@
 = Создать документ
 
-. xref:webclient:user:cards-new.adoc[Создайте карточку] одного из xref:docs.adoc#documentKinds[доступных видов] документа.
+. xref:6.1_GBL-3828@webclient:user:cards-new.adoc[Создайте карточку] одного из xref:docs.adoc#documentKinds[доступных видов] документа.
 +
 ****
 Будет открыто окно новой карточки.
 ****
 +
 .Карточка документа "Исходящий"
-image::empty-document-card.png[Карточка документа "Исходящий"]
+image::6.1_GBL-3828@webclient:user:empty-document-card.png[Карточка документа "Исходящий"]
 +
 NOTE: Если документ создан по шаблону, часть полей будет заполнена.
 +

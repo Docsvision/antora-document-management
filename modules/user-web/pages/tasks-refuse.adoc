@@ -5,7 +5,7 @@
 .Чтобы отказаться от выполнения задания:
 
 . Откройте задание.
-. На xref:webclient:user:cards-terms.adoc#cards-operations[панели операций] нажмите кнопку *Отклонить*.
+. На xref:6.1_GBL-3828@webclient:user:cards-terms.adoc#cards-operations[панели операций] нажмите кнопку *Отклонить*.
 +
 ****
 Будет предложено подтвердить операцию.

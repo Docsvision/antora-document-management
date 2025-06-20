@@ -1,13 +1,13 @@
 = Создание группы заданий
 
-. xref:webclient:user:cards-new.adoc[Создайте карточку] вида menu:Группа заданий[Группа заданий УД].
+. xref:6.1_GBL-3828@webclient:user:cards-new.adoc[Создайте карточку] вида menu:Группа заданий[Группа заданий УД].
 +
 ****
 Будет открыто окно новой карточки.
 ****
 +
 .Новая группа заданий вида "Группа заданий УД"
-image::task-group-create.png[Новая группа заданий вида "Группа заданий УД"]
+image::6.1_GBL-3828@webclient:user:task-group-create.png[Новая группа заданий вида "Группа заданий УД"]
 +
 . Заполните поля группы заданий.
 +
@@ -19,26 +19,26 @@ image::task-group-create.png[Новая группа заданий вида "Г
 
 == Перечень полей карточки "Группа заданий"
 
-xref:webclient:user:appendix/simple-fields.adoc[Название]::
+xref:6.1_GBL-3828@webclient:user:appendix/simple-fields.adoc[Название]::
 Название группы заданий.
 +
-include::partial$excerpts.adoc[tags=mandatory]
+include::6.1_GBL-3828@webclient:user:partial$excerpts.adoc[tags=mandatory]
 
-xref:webclient:user:appendix/staff-directory-items.adoc[Автор]::
+xref:6.1_GBL-3828@webclient:user:appendix/staff-directory-items.adoc[Автор]::
 Автор группы заданий. По умолчанию выбирается текущий сотрудник.
 +
-include::partial$excerpts.adoc[tags=mandatory]
+include::6.1_GBL-3828@webclient:user:partial$excerpts.adoc[tags=mandatory]
 
-xref:webclient:user:appendix/text.adoc[Примечание]::
+xref:6.1_GBL-3828@webclient:user:appendix/text.adoc[Примечание]::
 Дополнительная информация по группе заданий.
 
-xref:webclient:user:appendix/date-time.adoc[Срок исполнения]::
+xref:6.1_GBL-3828@webclient:user:appendix/date-time.adoc[Срок исполнения]::
 Плановый срок исполнения для заданий группы. По умолчанию устанавливаются текущие дата и время.
 +
 [#calendar]
-include::partial$excerpts.adoc[tags=fulfillmentTerm]
+include::6.1_GBL-3828@webclient:user:partial$excerpts.adoc[tags=fulfillmentTerm]
 
-xref:webclient:user:appendix/simple-fields.adoc[Длительность]::
+xref:6.1_GBL-3828@webclient:user:appendix/simple-fields.adoc[Длительность]::
 Длительность исполнения заданий относительно текущей даты и времени.
 +
 При изменении длительности, срок исполнения будет пересчитан с учётом бизнес-календаря (см. правила <<calendar,выше>>).
@@ -58,9 +58,9 @@ WARNING: Обязательно для ввода. Должен быть доб�
 Поставить на контроль::
 Включает функцию xref:tasks-user-controller.adoc[контроля исполнения] заданий группы ответственным сотрудником. При включённом контроле станут доступны параметры:
 
-xref:webclient:user:appendix/staff-directory-items.adoc[Контролёр]::: Сотрудник, который контролирует выполнение заданий.
+xref:6.1_GBL-3828@webclient:user:appendix/staff-directory-items.adoc[Контролёр]::: Сотрудник, который контролирует выполнение заданий.
 
-xref:webclient:user:appendix/date-time.adoc[Дата контроля]::: Дата, когда должен быть выполнен контроль выполнения заданий.
+xref:6.1_GBL-3828@webclient:user:appendix/date-time.adoc[Дата контроля]::: Дата, когда должен быть выполнен контроль выполнения заданий.
 
 Требуется приёмка::
 Включает функцию xref:task-groups-control.adoc[приёмки] выполненных заданий. При включении приёмки будет автоматически включён контроль.
@@ -70,7 +70,7 @@ xref:webclient:user:appendix/date-time.adoc[Дата контроля]::: Дат
 Ознакомиться с особенностями контроля и приёмки можно в пункте xref:tasks-controller-accept.adoc[].
 ====
 
-xref:webclient:user:appendix/task-card-file-panel.adoc[Добавить файл]::
+xref:6.1_GBL-3828@webclient:user:appendix/task-card-file-panel.adoc[Добавить файл]::
 Файлы, которые требуются для выполнения заданий. Файлы будут приложены ко всем заданиям исполнителей.
 +
-include::partial$excerpts.adoc[tags=scanOrFileSystem]
+include::6.1_GBL-3828@webclient:user:partial$excerpts.adoc[tags=scanOrFileSystem]

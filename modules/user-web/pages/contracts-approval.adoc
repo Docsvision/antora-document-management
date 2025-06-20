@@ -1,18 +1,18 @@
 = Согласование договора
 
-include::partial$excerpts.adoc[tags=incomingFolder]
+include::6.1_GBL-3828@webclient:user:partial$excerpts.adoc[tags=incomingFolder]
 +
 . Откройте полученное задание с описанием _Согласование документов_ в состоянии `Не начато`.
 . Выполните действия с согласуемыми документами:
 +
-* xref:webclient:user:approval-files.adoc[Ознакомьтесь с составом согласуемых файлов].
+* xref:6.1_GBL-3828@webclient:user:approval-files.adoc[Ознакомьтесь с составом согласуемых файлов].
 * Ознакомьтесь с договором: нажмите на ссылку в разделе *Ссылка на карточку* для перехода к договору.
-* Если требуется, xref:webclient:user:approval-files.adocdoc#add-version[добавьте собственную версию договора].
+* Если требуется, xref:6.1_GBL-3828@webclient:user:approval-files.adoc#add-version[добавьте собственную версию договора].
 +
 . Чтобы принять решение по согласованию, нажмите кнопку:
 +
-* *Согласовать* или *Согласовать с замечаниями* на xref:webclient:user:cards-terms.adoc#cards-operations[панели операций]. Когда все согласующие завершат свои задания, документ будет передан на xref:contracts-consolidate.adoc[консолидацию].
+* *Согласовать* или *Согласовать с замечаниями* на xref:6.1_GBL-3828@webclient:user:cards-terms.adoc#cards-operations[панели операций]. Когда все согласующие завершат свои задания, документ будет передан на xref:contracts-consolidate.adoc[консолидацию].
 * *Не согласовано*. Документ будет отправлен на новый цикл согласования.
 * *Делегировать*, *В работу*.
 
-Общая информация о принятии решения по согласованию приведена в пункте xref:webclient:user:approval-performer.adoc[].
+Общая информация о принятии решения по согласованию приведена в пункте xref:6.1_GBL-3828@webclient:user:approval-performer.adoc[].

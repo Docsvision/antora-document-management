@@ -4,7 +4,7 @@ _Делегат_ -- пользователь, которому было пере
 
 В статусе _Делегат_ пользователь обладает следующим набором прав на выполнение операций с полученной карточкой:
 
-include::partial$excerpts.adoc[tags=powers]
+include::6.1_GBL-3828@webclient:user:partial$excerpts.adoc[tags=powers]
 
 _Делегат_ может изменять состояние карточки:
 
@@ -14,14 +14,14 @@ _Делегат_ может изменять состояние карточки
 * xref:tasks-delegate.adoc[Делегировать] задание.
 
 .Чтобы выполнить делегированное задание:
-include::partial$excerpts.adoc[tags=incomingFolder]
+include::6.1_GBL-3828@webclient:user:partial$excerpts.adoc[tags=incomingFolder]
 . Откройте задание в состоянии `Делегировано`.
 +
 ****
 Информация о делегировании отображается в верхней части страницы.
 
 .Задание делегата в состоянии "Делегировано"
-image::task-delegated-performer.png[Задание делегата в состоянии "Делегировано"]
+image::6.1_GBL-3828@webclient:user:task-delegated-performer.png[Задание делегата в состоянии "Делегировано"]
 ****
 +
 . xref:tasks-finalize.adoc[Выполните] задание стандартным образом.
