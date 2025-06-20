@@ -1,5 +1,5 @@
 name: documentmgmt
-version: 'GBL-3828_6.1'
+version: '6.1_GBL-3828'
 prerelease: true
 title: Управление документами
 asciidoc:
