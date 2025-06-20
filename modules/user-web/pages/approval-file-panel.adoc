@@ -1,3 +1,0 @@
-:ud:
-
-include::GBL-3828@webclient:user:appendix/approval-file-panel.adoc[]

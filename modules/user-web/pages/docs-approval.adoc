@@ -16,3 +16,19 @@
 В процессе согласования отображаются локализованные решения. Локализация настраивается администратором модуля _{ad}_, xref:5.5.3@approval:admin:task-decisions.adoc[см. подробнее].
 
 После подведения итогов согласования, документ может быть согласован или возвращен на повторное согласование в новом цикле.
+
+См. подробнее в документации модуля {wc}:
+
+**** xref:GBL-3828@webclient:user:approval-advanced.adoc[]
+**** xref:GBL-3828@webclient:user:approval-send-modify.adoc[]
+**** xref:GBL-3828@webclient:user:approval-view.adoc[]
+**** xref:GBL-3828@webclient:user:approval-manage.adoc[]
+**** xref:GBL-3828@webclient:user:approval-performer.adoc[]
+***** xref:GBL-3828@webclient:user:approval-files.adoc[]
+**** xref:GBL-3828@webclient:user:approval-users-consolidator.adoc[]
+**** xref:GBL-3828@webclient:user:approval-users-signee.adoc[]
+**** xref:GBL-3828@webclient:user:approval-delegator.adoc[]
+**** xref:GBL-3828@webclient:user:approval-discussion.adoc[]
+**** xref:GBL-3828@webclient:user:approval-additional-approvers.adoc[]
+**** xref:GBL-3828@webclient:user:approval-subtasks.adoc[]
+**** xref:GBL-3828@webclient:user:appendix/approval-file-panel.adoc[]
