@@ -94,6 +94,7 @@
 **** xref:task-groups-delete.adoc[]
 
 *** xref:docs-approval.adoc[]
+**** xref:appendix/date-time.adoc[]
 
 **** xref:docs-registration.adoc[]
 **** xref:docs-to-acknowledgement.adoc[]
@@ -138,7 +139,8 @@
 ***** xref:contracts-reports-no-sign.adoc[]
 ***** xref:contracts-reports-deadline.adoc[]
 
-***** xref:appendix/numerator.adoc[]
-***** xref:appendix/print-button.adoc[]
-***** xref:appendix/email-button.adoc[]
-***** xref:appendix/task-card-file-panel.adoc[]
+**** xref:appendix/numerator.adoc[]
+**** xref:appendix/print-button.adoc[]
+**** xref:appendix/email-button.adoc[]
+**** xref:appendix/task-card-file-panel.adoc[]
+**** xref:appendix/links.adoc[]
