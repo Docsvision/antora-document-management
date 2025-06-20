@@ -16,7 +16,7 @@ include::5.5.4@documentmgmt:user:partial$excerpts.adoc[tags=35mb]
 +
 [NOTE]
 ====
-include::5.5.17@webclient:user:partial$excerpts.adoc[tags=signature]
+include::GBL-3828@webclient:user:partial$excerpts.adoc[tags=signature]
 ====
 +
 * *Отказано в подписании* -- договорной документ будет переведен в состояние Подготовка.

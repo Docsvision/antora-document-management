@@ -5,7 +5,7 @@ xref:5.5.17@webclient:user:appendix/simple-fields.adoc[Тема]::
 
 include::5.5.17@webclient:user:partial$excerpts.adoc[tags=mandatory]
 
-include::5.5.17@webclient:user:partial$excerpts.adoc[tags=documentDate]
+include::GBL-3828@webclient:user:partial$excerpts.adoc[tags=documentDate]
 
 xref:5.5.17@webclient:user:appendix/staff-directory-items.adoc[Инициатор]::
 Сотрудник, который подготовил проект документа. По умолчанию выбирается текущий сотрудник.
