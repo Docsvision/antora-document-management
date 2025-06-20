@@ -26,7 +26,7 @@
 include::partial$excerpts.adoc[tags=reg-tab]
 +
 .Заполнение Информации в заявке
-image::5.5.17@webclient:user:application-general.png[Заполнение Информации в заявке]
+image::application-general.png[Заполнение Информации в заявке]
 +
 include::partial$excerpts.adoc[tags=theme]
 +
@@ -41,7 +41,7 @@ include::partial$excerpts.adoc[tags=initiator]
 Выбор подвидов будет определять правило формирования регистрационных номеров документов, а также набор полей, которые будут отображаться в _Области представления_.
 +
 .Выбор вида заявки
-image::5.5.17@webclient:user:application-kind.png[Выбор вида заявки]
+image::application-kind.png[Выбор вида заявки]
 +
 include::partial$excerpts.adoc[tags=number]
 +
@@ -66,7 +66,7 @@ include::partial$excerpts.adoc[tags=names]
 include::partial$excerpts.adoc[tags=reg-tab]
 +
 .Выбор согласующих заявки
-image::5.5.17@webclient:user:application-approval.png[Выбор согласующих заявки]
+image::application-approval.png[Выбор согласующих заявки]
 +
 include::partial$excerpts.adoc[tags=approvers]
 +

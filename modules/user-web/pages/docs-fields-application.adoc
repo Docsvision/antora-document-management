@@ -18,7 +18,7 @@ xref:5.5.17@webclient:user:appendix/directory-designer-row.adoc[Вид заяв�
 xref:5.5.17@webclient:user:appendix/text.adoc[Описание]::
 Дополнительная информация по документу.
 
-xref:5.5.17@webclient:user:appendix/files.adoc[Файлы]::
+xref:appendix/files.adoc[Файлы]::
 Файлы документа.
 include::5.5.17@webclient:user:partial$excerpts.adoc[tags=scanOrFileSystem]
 

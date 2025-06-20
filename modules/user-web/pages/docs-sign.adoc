@@ -38,12 +38,12 @@ NOTE: В зависимости от настроек в xref:5.5.5@backoffice:d
 . Нажмите на кнопку image:5.5.17@webclient:user:buttons/signature-stamp-contour.png[Прозрачная печать] и в раскрывающемся меню выберите _Подписать_.
 +
 .Меню кнопки подписания
-image::5.5.17@webclient:user:webclient:user:sign-menu.png[Меню кнопки подписания]
+image::5.5.17@webclient:user::sign-menu.png[Меню кнопки подписания]
 +
 На экране появится окно _Электронная подпись_.
 +
 .Параметры электронной подписи
-image::5.5.17@webclient:user:webclient:user:digital-signature.png[Параметры электронной подписи]
+image::5.5.17@webclient:user::digital-signature.png[Параметры электронной подписи]
 +
 . Выберите метку для подписи.
 +
@@ -108,7 +108,7 @@ NOTE: Если у пользователя отсутствуют сертифи
 include::5.5.17@webclient:user:partial$excerpts.adoc[tags=2fa]
 
 .Двухфакторная аутентификация
-image::5.5.17@webclient:user:user:two-factor.png[Двухфакторная аутентификация]
+image::5.5.17@webclient:user:two-factor.png[Двухфакторная аутентификация]
 
 Если подписание завершилось успешно, появится сообщение `Электронная подпись сформирована успешно`. Цвет значка image:5.5.17@webclient:user:buttons/signature-stamp-contour.png[Прозрачная печать] сменится на серый.
 
@@ -154,7 +154,7 @@ image::5.5.17@webclient:user:sign-attorney.png[Подписание с испо�
 . Нажмите на кнопку image:5.5.17@webclient:user:buttons/signature-stamp-contour.png[Прозрачная печать] и в раскрывающемся меню выберите _Подписать_.
 +
 .Меню кнопки подписания
-image::5.5.17@webclient:user:webclient:user:sign-menu.png[Меню кнопки подписания]
+image::5.5.17@webclient:user::sign-menu.png[Меню кнопки подписания]
 +
 . В окне _Электронная подпись_ выберите сертификат ЭП и доверенность из раскрывающегося списка.
 +
@@ -163,12 +163,12 @@ NOTE: Список доступных доверенностей не отобр
 Доступные для пользователя доверенности выбираются по специальному алгоритму, см. подробнее xref:engineer:ROOT:config-attorney.adoc#algorithm[руководство по настройке] системы.
 +
 .Использовать доверенность при подписании
-image::5.5.17@webclient:user:webclient:user:sign-attorney.png[Использовать доверенность при подписании]
+image::5.5.17@webclient:user::sign-attorney.png[Использовать доверенность при подписании]
 +
 . Выбранную доверенность можно просмотреть, нажав на кнопку *Просмотр доверенности*.
 +
 .Просмотр информации об МЧД
-image::5.5.17@webclient:user:webclient:user:attorney-info.png[Просмотр информации об МЧД]
+image::5.5.17@webclient:user::attorney-info.png[Просмотр информации об МЧД]
 +
 Кнопка будет заблокирована, если доверенность не выбрана. При использовании простой подписи кнопка и список доступных МЧД не отображаются.
 +
