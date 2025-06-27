@@ -1,7 +1,7 @@
 * Руководство пользователя при работе в {wc}е
 ** xref:preparation.adoc[]
 ** xref:cards/description.adoc[]
-*** xref:docs.adoc[]
+** xref:docs.adoc[]
 
 *** xref:documents/incoming/work-with.adoc[]
 **** xref:docs-fields-incoming.adoc[]
@@ -17,6 +17,7 @@
 **** xref:documents/outgoing/register.adoc[]
 **** xref:documents/outgoing/send-recipients.adoc[]
 **** xref:documents/outgoing/archive.adoc[]
+**** xref:documents/outgoing/approval.adoc[]
 **** xref:documents/outgoing/log.adoc[]
 
 *** xref:documents/ord/work-with.adoc[]
@@ -25,6 +26,7 @@
 **** xref:documents/ord/register.adoc[]
 **** xref:documents/ord/operations.adoc[]
 **** xref:documents/ord/archive.adoc[]
+**** xref:documents/ord/approval.adoc[]
 **** xref:documents/ord/log.adoc[]
 
 *** xref:documents/note/work-with.adoc[]
@@ -32,6 +34,7 @@
 **** xref:documents/note/create.adoc[]
 **** xref:documents/note/register.adoc[]
 **** xref:documents/note/operations.adoc[]
+**** xref:documents/note/approval.adoc[]
 **** xref:documents/note/archive.adoc[]
 
 *** xref:documents/application/work-with.adoc[]
@@ -40,6 +43,7 @@
 **** xref:documents/application/register.adoc[]
 **** xref:documents/application/operations.adoc[]
 **** xref:documents/application/archive.adoc[]
+**** xref:documents/application/approval.adoc[]
 
 *** xref:documents/working/work-with.adoc[]
 **** xref:docs-fields-working.adoc[]
@@ -47,6 +51,7 @@
 **** xref:documents/working/take.adoc[]
 **** xref:documents/working/register.adoc[]
 **** xref:documents/working/operations.adoc[]
+**** xref:documents/working/approval.adoc[]
 
 *** xref:docs-new.adoc[]
 **** xref:appendix/files.adoc[Работа с файлами документов]
@@ -54,6 +59,19 @@
 **** xref:manage-categories.adoc[]
 **** xref:docs-sign.adoc[]
 **** xref:docs-archive.adoc[]
+**** xref:docs-registration.adoc[]
+**** xref:docs-to-acknowledgement.adoc[]
+**** xref:docs-reply-incoming.adoc[]
+**** xref:docs-new-task.adoc[]
+***** xref:docs-acknowledge-with.adoc[]
+***** xref:docs-sign-algorithm.adoc[]
+***** xref:docs-sign-cloud.adoc[]
+**** xref:docs-activation.adoc[]
+**** xref:docs-check-unique.adoc[]
+**** xref:docs-to-case.adoc[]
+**** xref:docs-print-card.adoc[]
+**** xref:docs-approval.adoc[]
+***** xref:date-time.adoc[Выбор даты и времени из календаря]
 
 *** xref:tasks.adoc[]
 **** xref:tasks-new.adoc[]
@@ -93,21 +111,6 @@
 **** xref:tasks-related.adoc[]
 ***** xref:tasks-related-tasks.adoc[]
 ***** xref:tasks-related-docs.adoc[]
-
-*** xref:docs-approval.adoc[]
-**** xref:date-time.adoc[Выбор даты и времени из календаря]
-
-**** xref:docs-registration.adoc[]
-**** xref:docs-to-acknowledgement.adoc[]
-**** xref:docs-reply-incoming.adoc[]
-**** xref:docs-new-task.adoc[]
-***** xref:docs-acknowledge-with.adoc[]
-***** xref:docs-sign-algorithm.adoc[]
-***** xref:docs-sign-cloud.adoc[]
-**** xref:docs-activation.adoc[]
-**** xref:docs-check-unique.adoc[]
-**** xref:docs-to-case.adoc[]
-**** xref:docs-print-card.adoc[]
 
 *** xref:contracts.adoc[]
 **** xref:contracts-work.adoc[]
