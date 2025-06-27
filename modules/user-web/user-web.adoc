@@ -56,7 +56,6 @@
 *** xref:docs-scenarios.adoc[]
 **** xref:docs-new.adoc[]
 ***** xref:appendix/files.adoc[Работа с файлами документов]
-***** xref:manage-categories.adoc[]
 **** xref:docs-sign.adoc[]
 ***** xref:docs-sign-algorithm.adoc[]
 ***** xref:docs-sign-cloud.adoc[]
