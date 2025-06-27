@@ -71,7 +71,6 @@
 **** xref:docs-to-case.adoc[]
 **** xref:docs-print-card.adoc[]
 **** xref:docs-approval.adoc[]
-***** xref:date-time.adoc[Выбор даты и времени из календаря]
 
 *** xref:tasks.adoc[]
 **** xref:tasks-new.adoc[]
@@ -144,6 +143,7 @@
 ***** xref:contracts-reports-deadline.adoc[]
 
 **** xref:appendix/numerator.adoc[]
+**** xref:appendix/date-time.adoc[Выбор даты и времени из календаря]
 **** xref:appendix/print-button.adoc[]
 **** xref:appendix/email-button.adoc[]
 **** xref:appendix/task-card-file-panel.adoc[]
