@@ -11,8 +11,8 @@
 Разделы документации, посвящённые общим сценариям взаимодействия с разными видами электронных документов в {wc}е.
 
 * xref:docs-new.adoc[]
-* xref:appendix/files.adoc[Работа с файлами документов]
-* xref:manage-categories.adoc[]
+* xref:docs-sign.adoc[]
+* xref:docs-archive.adoc[]
 * xref:docs-scenarios.adoc[Больше подробностей в навигационном меню слева...]
 ****
 ====
