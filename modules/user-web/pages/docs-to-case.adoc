@@ -1,6 +1,6 @@
 = Списать документ в дело из карточки
 
-include::6.1_GBL-3828@webclient:user:partial$excerpts.adoc[tags=noam]
+include::6.1@archivemgmt:admin:install.adoc[tags=noam]
 
 Пользователь имеет возможность списать документ в дело из карточки. Возможность становится доступной после установки компонентов модуля _{am}_ и выполнения необходимых xref:6.1_GBL-3828@webclient:layouts:guide-add-case-control.adoc[настроек разметок] {wc}а в программе _{kvr}_. Документ можно списать только в уже xref:6.1@archivemgmt:user:cases.adoc#createCase[созданное] дело.
 
